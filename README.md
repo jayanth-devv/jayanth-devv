@@ -11,14 +11,13 @@
 
 - 💬 Ask me about **Full Stack Wed development, Data Structures, PowerBI Tool**
 
-- 📫 How to reach me **jayanthnarasimha1@gmail.com@gmail.com**
+- 📫 How to reach me **jayanthnarasimha1@gmail.com**
 
 
 
 # 💫 About Me:
  
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jayanth-kumar-p-n-3951072b4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/likith_s12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayanthnarasimha1@gmail.com) 
 
 # 💻 Tech Stack:
