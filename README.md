@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Full Stack Wed development, Data Structures, PowerBI Tool**
 
-- 📫 How to reach me **likithram64@gmail.com**
+- 📫 How to reach me **jayanthnarasimha1@gmail.com@gmail.com**
 
 
 
